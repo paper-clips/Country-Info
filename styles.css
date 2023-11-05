@@ -1,0 +1,7 @@
+/* Hero displaying country info */
+#country-hero {
+    display: flex;              /* Flex display */
+    align-items: center;        /* Center align vertically */
+    justify-content: center;    /* Center align horizontally */
+    height: 100vh;              /* Make height 100% of screen */
+}
