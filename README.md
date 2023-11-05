@@ -4,7 +4,7 @@ Find out what the capital of a country is, as well as other information, using t
 
 <div align="center">
   Try the program: 
-  <a href="https://paper-clips.github.io/Country-Info/" target="_blank">link</a>
+  <a href="https://paper-clips.github.io/Country-Info/">link</a>
 </div>
 
 ### Website Example
