@@ -1,6 +1,6 @@
 # Country Info
 
-Find out what the capital of a country is, as well as other information, using the following program. You can search a country or select the random button to get a random country instead. <br>
+Find out what the capital of a country is, as well as other interesting information, using the following program. You can search a country or select the random button to get a random country instead. <br>
 
 <div align="center">
   Try the program: 
